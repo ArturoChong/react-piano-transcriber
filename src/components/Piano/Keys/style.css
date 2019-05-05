@@ -1,0 +1,24 @@
+.test-color {
+    color: black;
+}
+.white-key {
+    display: inline-block;
+    background-color: white;
+    border: solid 2px black;
+    width: 40px;
+    height: 230px;
+    overflow: visible;
+}
+.black-key {
+    display: inline-block;
+    border: solid 1px black;
+    width: 24px;
+    height: 155px;
+    background-color: black;
+    position: relative;
+    float: right;
+    margin-right: -10px;
+}
+.octave {
+    display: inline-block;
+}
